@@ -3,7 +3,7 @@
 Welcome to the Machine Learning with Scratch series, where I can follow my progress in Machine Learning process and you can follow. In this series, I will try to include the following titles in order.
 
 Thank you
-"""
+
 * KNN
 * Linear Regression
 * Logistic Regression
@@ -16,4 +16,4 @@ Thank you
 * K-Means
 * AdaBoost
 * Linear Discriminant Analysis (LDA)
-"""
+
