@@ -1,1 +1,19 @@
-# my_ml_series_from_scratch
+# Hello
+ 
+Welcome to the Machine Learning with Scratch series, where I can follow my progress in Machine Learning process and you can follow. In this series, I will try to include the following titles in order.
+
+Thank you
+"""
+* KNN
+* Linear Regression
+* Logistic Regression
+* Naive Bayes
+* Perceptron
+* SVM
+* Decision Tree
+* Random Forest
+* Principal Component Analysis (PCA)
+* K-Means
+* AdaBoost
+* Linear Discriminant Analysis (LDA)
+"""
