@@ -5,8 +5,8 @@ Welcome to the Machine Learning with Scratch series, where I can follow my progr
 Thank you
 
 * KNN
-* Linear Regression ✓
-* Logistic Regression
+* Linear Regression   ✓
+* Logistic Regression ✓
 * Naive Bayes
 * Perceptron
 * SVM
