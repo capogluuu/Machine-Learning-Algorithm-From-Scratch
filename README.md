@@ -6,7 +6,7 @@ Thank you
 
 1. KNN
 2. Linear Regression   ✓
-⋅⋅*https://medium.com/analytics-vidhya/simple-linear-regression-with-scratch-a3cb352437ce
+⋅⋅* https://medium.com/analytics-vidhya/simple-linear-regression-with-scratch-a3cb352437ce
 3. Logistic Regression ✓
 4. Naive Bayes
 5. Perceptron
