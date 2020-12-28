@@ -6,7 +6,7 @@ Thank you
 
 * KNN
 * Linear Regression   ✓
-  https://medium.com/analytics-vidhya/simple-linear-regression-with-scratch-a3cb352437ce
+-------> https://medium.com/analytics-vidhya/simple-linear-regression-with-scratch-a3cb352437ce
 
 * Logistic Regression ✓
 * Naive Bayes
