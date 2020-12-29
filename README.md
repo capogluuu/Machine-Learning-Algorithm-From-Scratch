@@ -4,17 +4,15 @@ Welcome to the Machine Learning with Scratch series, where I can follow my progr
 
 Thank you
 
-1. KNN
-2. Linear Regression   ✓
+1.  KNN
+2.  Linear Regression   ✓
 * https://medium.com/analytics-vidhya/simple-linear-regression-with-scratch-a3cb352437ce
-3. Logistic Regression ✓
-4. Naive Bayes
-5. Perceptron
-6. SVM
-7. Decision Tree
-8. Random Forest
-9. Principal Component Analysis (PCA)
-10. K-Means
-11. AdaBoost
-12. Linear Discriminant Analysis (LDA)
+3.  Logistic Regression ✓
+4.  Perceptron
+5.  SVM
+6.  Decision Tree
+7.  Random Forest
+8.  Principal Component Analysis (PCA)
+9.  K-Means
+10. Linear Discriminant Analysis (LDA)
 
