@@ -12,11 +12,8 @@ Thank you
 3.  Logistic Regression ✓
 * English version :https://medium.com/analytics-vidhya/logistic-regression-with-scracth-c23b9afb04b2
 * Turkish version :https://medium.com/kaveai/scratch-ile-logistic-regression-a18686d942d0
-4.  Perceptron
-5.  SVM
-6.  Decision Tree
-7.  Random Forest
-8.  Principal Component Analysis (PCA)
-9.  K-Means
-10. Linear Discriminant Analysis (LDA)
+4.  SVM
+5.  Decision Tree
+6.  Random Forest
+7.  K-Means
 
