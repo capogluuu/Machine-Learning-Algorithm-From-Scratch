@@ -5,6 +5,7 @@ Welcome to the Machine Learning with Scratch series, where I can follow my progr
 Thank you
 
 1.  KNN ✓
+* English Version :https://medium.com/analytics-vidhya/k-nearest-neighbor-with-scratch-knn-75bf088729b
 * Turkish version :https://medium.com/kaveai/scratch-ile-k-nearest-neighbor-knn-68cedb2ba3ec
 2.  Linear Regression   ✓
 * English version :https://medium.com/analytics-vidhya/simple-linear-regression-with-scratch-a3cb352437ce
